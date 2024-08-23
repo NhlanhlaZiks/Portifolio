@@ -19,7 +19,7 @@ h6 {
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 90px;
 }
 
 p {
@@ -29,7 +29,7 @@ p {
 .home-page {
   background-color: #eceff7;
   text-align: center;
-  padding: 160px 20px;
+  padding: 125px 10px;
 }
 
 .home-page p {
@@ -49,4 +49,9 @@ p {
 .btn-primary {
   padding: 15px 30px;
   font-size: 18px;
+}
+
+.btn-outline-primary {
+  color: #0d6efd;
+  background-color: #ffffff;
 }
