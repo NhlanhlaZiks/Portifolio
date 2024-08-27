@@ -83,3 +83,11 @@ p {
     padding: 0;
   }
 }
+
+.contact-me h2 {
+  font-size: 18px;
+}
+
+.contact-me p {
+  font-size: 13px;
+}
