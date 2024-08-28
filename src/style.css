@@ -117,8 +117,8 @@ footer .contact-me {
   padding: 30px;
 }
 
-footer .contant-me p {
-  margin: 0;
+footer p {
+  font-size: 15px;
 }
 
 @media (max-width: 900px) {
